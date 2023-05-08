@@ -42,10 +42,6 @@
 ![ACGAN_loss_plot_loss_1](https://user-images.githubusercontent.com/130850554/236758472-6939210c-2be1-4b4e-a492-858dc33d19a0.png)
 
 
-
-![Figure_1](https://user-images.githubusercontent.com/130850554/236758829-718ebe9b-75ee-4f6b-a296-f9d03df6c52d.png)
-![Figure_2](https://user-images.githubusercontent.com/130850554/236758840-cbfe9568-b0d4-4c19-81a0-9cf067a733f1.png)
-![Figure_3](https://user-images.githubusercontent.com/130850554/236758842-06565df0-a08a-40b9-b2d3-8ab5583c1539.png)
-![Figure_4](https://user-images.githubusercontent.com/130850554/236758844-33dd4e9c-4b8d-48e8-ac1f-b18fb266db36.png)
-![Figure_5](https://user-images.githubusercontent.com/130850554/236758852-bee37f9a-5e0d-4935-a932-7bbe0ad4c530.png)
-![Figure_6](https://user-images.githubusercontent.com/130850554/236758854-1bf56c09-e2ff-451b-8343-df4dfad9cf69.png)
+![Figure_1](https://user-images.githubusercontent.com/130850554/236764055-2ff49f02-903b-4bf3-b72c-2d642d40fd09.png)
+![Figure_2](https://user-images.githubusercontent.com/130850554/236764063-068b6eca-ff5a-453b-9998-fc768b022061.png)
+![Figure_3](https://user-images.githubusercontent.com/130850554/236764067-e7012540-7ff9-45c0-bcff-7b87787d8db4.png)
