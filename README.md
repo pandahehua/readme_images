@@ -1,5 +1,9 @@
 # readme_images
 
+![mts_acc](https://github.com/pandahehua/readme_images/assets/130850554/d0dbe757-74b9-49e6-9e45-c8ba8d90d089)
+
+![mts_loss](https://github.com/pandahehua/readme_images/assets/130850554/196b073d-6da8-4a1a-97bc-2896e6c9d66f)
+
 
 ![Screenshot from 2021-10-25 10-06-16](https://user-images.githubusercontent.com/130850554/236746655-d23a8b1e-7fd2-4dee-9987-a92935874b82.png)
 
