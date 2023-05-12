@@ -10,9 +10,9 @@
 | Simple_LSTM         | 0.932606 | 0.917350 | 0.908768 | 0.904000 | 0.899892 | 0.896070 | 0.893260 | 0.891410 | 0.887690 | 0.883684 | 0.883256 | 0.881757 | 0.882073 | 0.878427 | 0.876781 | 0.877600 | 0.874004 | 0.872749 | 0.874959 | 0.871901 |
 | CL-based            | 0.926022 | 0.915719 | 0.914630 | 0.911664 | 0.907598 | 0.904705 | 0.905521 | 0.909347 | 0.908416 | 0.903857 | 0.905245 | 0.903743 | 0.903044 | 0.899642 | 0.898448 | 0.902504 | 0.903457 | 0.900310 | 0.897716 | 0.890362 |
 
-![mts_acc](https://github.com/pandahehua/readme_images/assets/130850554/d0dbe757-74b9-49e6-9e45-c8ba8d90d089)
-
-![mts_loss](https://github.com/pandahehua/readme_images/assets/130850554/196b073d-6da8-4a1a-97bc-2896e6c9d66f)
+|Accuracy trend |Loss trend|
+|:---:|:---:|
+|![mts_acc](https://github.com/pandahehua/readme_images/assets/130850554/d0dbe757-74b9-49e6-9e45-c8ba8d90d089) |![mts_loss](https://github.com/pandahehua/readme_images/assets/130850554/196b073d-6da8-4a1a-97bc-2896e6c9d66f)| 
 
 
 ![Screenshot from 2021-10-25 10-06-16](https://user-images.githubusercontent.com/130850554/236746655-d23a8b1e-7fd2-4dee-9987-a92935874b82.png)
